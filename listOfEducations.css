@@ -1,0 +1,35 @@
+html{
+    background-color: lightsteelblue;
+}
+
+h1{
+    color: cadetblue;
+    font-size: 100px;
+    text-align: center;
+}
+
+.randomBut{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: white;
+    background-color: cornflowerblue;
+    font-size: 20px;
+    border-radius: 60px;
+}
+
+.educations{
+    color: white;
+    margin: 50px;
+
+}
+
+.list-of-link-educations{
+    color: white;
+    font-size: 15px;
+}
+
+a {
+    color: white;
+    outline: none;
+    padding: 2px 1px 0;
+}

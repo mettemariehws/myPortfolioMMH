@@ -1,0 +1,14 @@
+.little-cute-text {
+    border: 10px double;
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+}
+
+.little-cute-picture img{
+    border-radius: 500px;
+    background-color: lightgreen;
+    background-position: right;
+    background-size: 500px;
+}

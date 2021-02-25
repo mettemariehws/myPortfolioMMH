@@ -1,0 +1,17 @@
+html{
+    background-color: darkseagreen;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.projects {
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}

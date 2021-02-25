@@ -1,0 +1,8 @@
+button.call-to-action{
+    background:green;
+}
+
+button {
+    padding: 12px;
+    border-radius: 8px;
+}
